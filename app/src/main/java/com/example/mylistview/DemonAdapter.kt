@@ -8,6 +8,7 @@ import android.view.ViewGroup
 import android.widget.BaseAdapter
 import android.widget.ImageView
 import android.widget.TextView
+import de.hdodenhof.circleimageview.CircleImageView
 
 class DemonAdapter internal constructor(private val context: Context) : BaseAdapter() {
     internal var heroes = arrayListOf<Demon>()
@@ -31,11 +32,10 @@ class DemonAdapter internal constructor(private val context: Context) : BaseAdap
         return itemView
     }
 
-    private inner class ViewHolder internal constructor(view: View) {
+    private inner class ViewHolder constructor(private val view: View) {
         private val txtName: TextView = view.findViewById(R.id.txt_name)
         private val txtDescription: TextView = view.findViewById(R.id.txt_description)
-        private val imgPhoto: ImageView = view.findViewById(R.id.img_photo)
-
+        private val imgPhoto: CircleImageView = view.findViewById(R.id.img_photo)
         internal fun bind(demon: Demon) {
             txtName.text = demon.name
             txtDescription.text = demon.description
