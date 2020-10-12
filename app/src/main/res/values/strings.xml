@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_demons">Nama Iblis</string>
+    <string name="lorem">lorem ipsun dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Crimson Guy</item>
+        <item>Diablo</item>
+        <item>Testarossa</item>
+        <item>Carerra</item>
+        <item>Ultima</item>
+        <item>Hirari dan Mizari</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Mewakili Rouge atau warna merah di Primordial of Daemon.Crimson Guy adalah makhluk yang dahulu pernah menantang Star King Dragon Veldanava, Tuhan di semesta Tensura. Namun, saat baru akan mulai menyerang, dengan sangat mudahnya Veldanava menjatuhkan Crimson Guy tanpa menyentuhnya.</item>
+        <item>Mewakili Noir atau warna hitam di Primordial of Daemon. Diablo merupakan salah satu dari Archdemon yang dipanggil Rimuru sesudah membantai pasukan kerajaan Falmas. Setelah Rimuru memberi nama, akhirnya Diablo pun berevolusi ke tingkatan Demon Duke. Saat ini Diablo adalah Demon God yang hampir setara dengan Crimson Guy.</item>
+        <item>Mewakili blanc atau warna putih di Primordial of Daemon. Julukannya adakah Killer Lord dan dia adalah salah satu dari 10 iblis yang dipanggil Diablo untuk melayani Rimuru saat Great Tenma War. Mulanya dia adalah Archdemon, tapi selepas diberi nama oleh Rimuru, Testarossa berevolusi menjadi Demon Duke dan sekarang dirinya adalah Demon King.</item>
+        <item>Mewakili Jaune atau warna kuning di Primordial of Daemon. Dengan julukannya sebagai Menace Lord, Carrera merupakan salah satu dari 12 bawahan terkuat Rimuru. Bersama Ultima, dia adalah jendral di Black Corps. Sebagai iblis yang kuat, awalnya Carrera meremehkan makhluk bernama manusia karena eksitensi manusia sangatlah lemah.</item>
+        <item>Mewakili Violent atau ungu di Primordial of Daemon. Jika tadi MILF dan teen, maka sekarang Otakusiana akan membahas loli. Sama seperti yang sebelum-sebelumnya, Ultima sang Pain Lord ini saat pertama kali dipanggil adalah Archdemon. Alasan mengapa Ultima dijuluki Pain Lord itu karena Ultima ternyata menyimpan sisi sadis atau biasa disebut yandere.</item>
+        <item>Hirari Mewakili Vert atau warna hijau di Primordial of Daemon, Mizari Mewakili Bleu atau warna biru di Primordial of Daemon. Berdua dengan Mizari, dirinya adalah bawahan atau pelayan Crimson Guy yang bertugas untuk memenuhi dan melayani segala kebutuhannya. Sebagai bawahan, Hirari serta Mizari diperintahkan untuk tidak pernah mencampuri urusan Crimson Guy. Bahkan jika Crimson Guy selaku tuan mereka diserang, mereka tidak boleh bergerak kalau tidak disuruh.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/crimson_guy</item>
+        <item>@drawable/diablo</item>
+        <item>@drawable/testarossa</item>
+        <item>@drawable/carerra</item>
+        <item>@drawable/ultima</item>
+        <item>@drawable/hirari_dan_mizari</item>
+    </array>
+</resources>
